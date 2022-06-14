@@ -1,0 +1,55 @@
+h1 {
+	padding-top: 25px;
+	margin: 50px;
+	font-family: Open Sans; 
+}
+
+.one { 
+
+	margin:20px;
+	padding-top:55px;
+	padding-left:15%;
+	items-align: center;
+ }
+
+ .two{
+ 	padding-top:100px;
+
+ }
+
+ .three{
+ 	padding-top:100px;
+ }
+
+ .four {
+ 	padding-top: 150px;
+ }
+
+ #four {
+ 	padding-right: 60px;
+ }
+
+ .five {
+ 	padding-top: 750px;
+
+ }
+
+ .six{
+ 	padding-top: 250px;
+
+ }
+
+ .seven{
+ 	padding-top: 340px;
+
+ }
+
+ .eight{
+ 	padding-top: 500px;
+
+ }
+
+ .nine {
+ 	padding-top: 650px;
+ 	padding-bottom: 250px;
+ }
